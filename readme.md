@@ -90,6 +90,8 @@ A Completion Certificate will be issued by CODTECH on the internship end date, s
 
 👨‍💻 Developed By
 
-Muwaz Shakir Khan
-
+Name: Muwaz Khan
+Role: Front-End Developer
+Internship: CODTECH
 Intern ID – B01FAAF2AC202E65
+
